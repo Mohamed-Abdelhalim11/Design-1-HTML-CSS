@@ -129,7 +129,7 @@ html{
 .landing {
   width: 100%;
   height: calc(100vh - 70px);
-  background-image: url(/images/home\ pic\ .jpg);
+  background-image: url(../images/home\ pic\ .jpg);
   background-size: cover;
 }
 
